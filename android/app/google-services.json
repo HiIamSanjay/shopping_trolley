@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "592572093978",
+    "firebase_url": "https://shopping-trolley-6f99a-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "shopping-trolley-6f99a",
+    "storage_bucket": "shopping-trolley-6f99a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:592572093978:android:f422267c63c8ad873a23a3",
+        "android_client_info": {
+          "package_name": "com.example.shopping_trolley"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPpDieRlDNPqW58FKFszQ2LvOoJhaX2ow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:592572093978:android:feb220d6401eaa6e3a23a3",
+        "android_client_info": {
+          "package_name": "com.example.shopping_trolley.debug"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPpDieRlDNPqW58FKFszQ2LvOoJhaX2ow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
